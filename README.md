@@ -1,4 +1,4 @@
-# AnalyzeCrypto
+# Analize Criptomoedas
 
  Este método simples pode ser útil para todas as pessoas que usam termux e são interessadas em criptomoedas. Se você minerar criptomoedas em seu termux, é melhor ter essa ferramenta em seu cabeçalho para que, sempre que abri-la, receba atualizações sobre o mercado. Portanto, se você está procurando algo leve e mínimo para obter suas atualizações de criptografia, essa ser sua ferramenta preferida.
 
@@ -19,3 +19,6 @@ Este comando abaixo fornecerá informações sobre as taxas de câmbio atuais e 
 digite - curl rate.xs
 
 ![alt text](https://blogger.googleusercontent.com/img/a/AVvXsEjYrqHC8w6XXqOdHvI8cidCWIJJBL4JSoH2d2gk3ZheDFIkZb2jXvGjkMGqzPgxHeyt9TddESfw-G_igDuMOl18nN59ns_EhTGz56_V_p6UZsKXeRjbSB8Z0MYtarRyzLkCM01irLTwXnu91xxGkrxr3MTL1cTQ4QvIhUnmBlC6WBhGua-cG9Ma5qy5SQ=s400)
+
+Analise uma cryptomoeda em Gráfico:
+Se você quiser ver uma representação gráfica de qualquer criptografia específica em algum período de tempo, poderá usar o comando abaixo . Ao usar o comando abaixo, você verá um gráfico de 24 horas dessa moeda.
