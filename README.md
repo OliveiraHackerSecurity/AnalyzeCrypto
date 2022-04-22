@@ -9,3 +9,6 @@ Uma das melhores coisas sobre este rastreador termux Crypto é que ele não requ
 
 Termux rate.sx é criado por chubin , e você pode conferir seu projeto @chubin/rate.sx Este projeto também está disponível para Linux, macOS e Windows também.
 
+Como obter relatórios de moeda criptográfica no Termux?
+
+Para usar esta ferramenta no  termux  você precisa usar  curl no termux  e curl é um pacote pré-instalado, então você não precisa instalar nada. Você pode  usar o comando abaixo para executar esta ferramenta . Verifique se sua internet está funcionando , senão isso não funcionará.
