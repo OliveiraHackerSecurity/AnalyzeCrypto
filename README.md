@@ -25,7 +25,7 @@ Se você quiser ver uma representação gráfica de qualquer criptografia espec�
 digite - curl rate.sx/eth
 ![alt text](https://blogger.googleusercontent.com/img/a/AVvXsEgVQXpFiV2AOM0jti55tWVZXoXNUyQOEMo5ri3lBgtGwYHAYtGH2IwztrTV10elu1M9cAjYCpgfdLOh3exw2SPF5O4IaMBequSuPmKS_fXqT9bAeOdsd4nGuaWPLM9eqLuRSQeWPdxuEBT-0FgahhHbmSPdRycFyWKuhS__LPRM6yBFfEd4_w63Er_DYw=s400)
 
-Consutar BTC em grafico no prazo de 30 dias
+Analise de BTC em grafico no prazo de 30 dias
 
 digite - curl rate.sx/BTC@30d
 ![alt text](https://blogger.googleusercontent.com/img/a/AVvXsEjKw_Q2QkbczYerMvHlsC64LmuTzbEnA1lCFIvlo6qsHgml7wcauGl3lAaMYBCWsXTtrRLlknxbQRUK1eNs-h2uQkXYBXXCAnttvBq0AhJi_oHViryB4rjmwawIkuBKMWhgh6uzgnBwPnGL8zf7IGjRuV6AwcI5aFvOeWwbvFo5KAAwAwRUUoJkcuqFug=s400)
