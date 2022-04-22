@@ -12,3 +12,8 @@ Termux rate.sx é criado por chubin , e você pode conferir seu projeto @chubin/
 Como obter relatórios de moeda criptográfica no Termux?
 
 Para usar esta ferramenta no  termux  você precisa usar  curl no termux  e curl é um pacote pré-instalado, então você não precisa instalar nada. Você pode  usar o comando abaixo para executar esta ferramenta . Verifique se sua internet está funcionando , senão isso não funcionará.
+
+Obtenha informações sobre as dez principais moedas criptográficas:
+Este comando abaixo fornecerá informações sobre as taxas de câmbio atuais e a capitalização de mercado das dez principais criptomoedas da Termux . Este é o comando mais fácil e primário sobre esta ferramenta, e você pode executá-lo sempre que quiser.
+
+curl rate.xs
