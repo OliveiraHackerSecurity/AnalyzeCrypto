@@ -16,6 +16,6 @@ Para usar esta ferramenta no  termux  você precisa usar  curl no termux  e curl
 Obtenha informações sobre as dez principais moedas criptográficas:
 Este comando abaixo fornecerá informações sobre as taxas de câmbio atuais e a capitalização de mercado das dez principais criptomoedas da Termux . Este é o comando mais fácil e primário sobre esta ferramenta, e você pode executá-lo sempre que quiser.
 
-curl rate.xs
+digite - curl rate.xs
 
-https://blogger.googleusercontent.com/img/a/AVvXsEjYrqHC8w6XXqOdHvI8cidCWIJJBL4JSoH2d2gk3ZheDFIkZb2jXvGjkMGqzPgxHeyt9TddESfw-G_igDuMOl18nN59ns_EhTGz56_V_p6UZsKXeRjbSB8Z0MYtarRyzLkCM01irLTwXnu91xxGkrxr3MTL1cTQ4QvIhUnmBlC6WBhGua-cG9Ma5qy5SQ=s400
+![alt text](https://blogger.googleusercontent.com/img/a/AVvXsEjYrqHC8w6XXqOdHvI8cidCWIJJBL4JSoH2d2gk3ZheDFIkZb2jXvGjkMGqzPgxHeyt9TddESfw-G_igDuMOl18nN59ns_EhTGz56_V_p6UZsKXeRjbSB8Z0MYtarRyzLkCM01irLTwXnu91xxGkrxr3MTL1cTQ4QvIhUnmBlC6WBhGua-cG9Ma5qy5SQ=s400)
