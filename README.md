@@ -29,3 +29,15 @@ Analise de BTC em grafico no prazo de 30 dias
 
 digite - curl rate.sx/BTC@30d
 ![alt text](https://blogger.googleusercontent.com/img/a/AVvXsEjKw_Q2QkbczYerMvHlsC64LmuTzbEnA1lCFIvlo6qsHgml7wcauGl3lAaMYBCWsXTtrRLlknxbQRUK1eNs-h2uQkXYBXXCAnttvBq0AhJi_oHViryB4rjmwawIkuBKMWhgh6uzgnBwPnGL8zf7IGjRuV6AwcI5aFvOeWwbvFo5KAAwAwRUUoJkcuqFug=s400)
+
+Dicas extras:
+Você também pode  usar o comando abaixo para instalar este script na parte superior da tela  dessa maneira, sempre que você abrir o termux, verá todo o preço das moedas na tela, o que  dará ao seu termux uma sensação realmente diferente.
+
+Instale isso no arquivo bash.bashrc:
+echo "clear && curl rate.sx" >> /data/data/com.termux/files/usr/etc/bash.bashrc
+
+Desinstale o termux Rate.sx:
+Para desinstalar este script do arquivo de inicialização do termux , você deve copiar e colar o comando da caixa abaixo no seu aplicativo termux e pressionar enter e tudo voltará ao normal. Certifique-se de copiar todo o texto abaixo e colá-lo diretamente no termux.   
+
+      echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then>         command_not_found_handle() {
+                  /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
